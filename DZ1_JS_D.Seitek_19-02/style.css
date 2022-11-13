@@ -1,0 +1,13 @@
+.big-block {
+    height: 450px;
+    width: 450px;
+    background-color: orange;
+    position: relative;
+}
+
+.smaller-block {
+    height: 150px;
+    width: 150px;
+    background-color: crimson;
+    position: absolute;
+}
