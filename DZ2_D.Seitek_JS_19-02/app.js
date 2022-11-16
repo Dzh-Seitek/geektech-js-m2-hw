@@ -1,6 +1,4 @@
 const block = document.querySelector('.block');
-let posX = 0;
-    posY = 0;
 
 const moveBlock = () => {
     block.animate([
